@@ -59,35 +59,6 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  
 
-<br>
-
-
-
-
-</p>
-
-<br>
-<br>
-
------
-
-<br>
-
-
-
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
 ## <b> Redes..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -122,14 +93,7 @@
 
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
 
 
 
